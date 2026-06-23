@@ -112,11 +112,11 @@ The Power BI dashboard provides:
 
 ### Executive Dashboard
 
-![Executive Dashboard](visuals/executive_dashboard.png)
+![Executive Dashboard](Vendor-Performance-Analysis/visuals/executive_dashboard.png)
 
 ### Vendor Performance Dashboard
 
-![Vendor Performance Dashboard](visuals/vendor_analysis_dashboard.png)
+![Vendor Performance Dashboard](Vendor-Performance-Analysis/visuals/vendor_analysis_dashboard.png)
 
 ---
 
