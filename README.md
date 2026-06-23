@@ -108,7 +108,15 @@ The Power BI dashboard provides:
 * Worst Performing Vendors
 * Interactive Filtering by Vendor and Product
 
-Dashboard screenshots are available in the **visuals** folder.
+## Dashboard Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](visuals/executive_dashboard.png)
+
+### Vendor Performance Dashboard
+
+![Vendor Performance Dashboard](visuals/vendor_analysis_dashboard.png)
 
 ---
 
